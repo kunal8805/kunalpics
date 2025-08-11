@@ -1,0 +1,105 @@
+
+
+h1{
+    color: rgb(236, 22, 22);
+    background-image: url('background\ for\ h1.jpg');;
+    display: inline-block;
+   margin-left: 470px;
+   padding: 10px;
+   border-radius: 15px;
+   
+   
+    
+}
+h2{
+    color: rgb(246, 250, 23);
+    font-size: 30px;
+    background: linear-gradient(to right, red, rgb(77, 35, 156), green);
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 490px;
+    
+}
+
+h3{
+    font-size: 25px;
+    
+}
+
+
+
+.img1{
+
+    border-radius: 7px;
+    
+}
+
+.img6{
+    border-radius: 7px;
+    padding-left: 15px;
+    
+}
+
+.contact-icon1{
+    border-radius: 15px;
+}
+
+.contact-icon2{
+
+    border-radius: 18px
+    
+    
+}
+   
+.button1{
+    font-size: 25px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 23px;
+    color: rgb(168, 57, 40);
+        background-color: rgb(147, 215, 65);
+
+        border-radius: 9px;
+    
+   
+    
+}
+
+.button4{
+    font-size: 25px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 23px;
+    color: rgb(168, 57, 40);
+        background-color: rgb(147, 215, 65);
+
+        border-radius: 9px;
+
+
+}
+
+i dont know what does this button do
+.button2{
+      font-size: 25px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 23px;
+    color: rgb(168, 57, 40);
+        background-color: rgb(147, 215, 65);
+
+        border-radius: 9px;
+    
+    
+
+    
+}
+
+body{
+    background-color: rgb(6, 127, 87);
+
+}
+
+
+
+
